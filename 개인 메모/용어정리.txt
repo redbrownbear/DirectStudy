@@ -1,0 +1,4 @@
+DDC - DerivedDataCache : 중간 저장 파일
+(개념 알아보기)
+
+UnrealInsight - 프로파일러
