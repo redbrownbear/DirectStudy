@@ -2,3 +2,11 @@ DDC - DerivedDataCache : 중간 저장 파일
 (개념 알아보기)
 
 UnrealInsight - 프로파일러
+
+Sharpmake - 유비소프트의 Sharpmake 이게 뭘까
+
+예약어
+
+gitlab으로 서버 구현해보기
+
+도커?
